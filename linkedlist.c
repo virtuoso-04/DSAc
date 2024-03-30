@@ -73,5 +73,6 @@ void insert(char *name)
 
 void delete(char *name)
 {
+    
 
 }
