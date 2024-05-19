@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "linearsearch",
+      "request": "launch",
+      "mainClass": "linearsearch",
+      "projectName": "DSAc_5431a50"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "DSAc_5431a50"
+    },
+    {
+      "type": "java",
       "name": "gcd",
       "request": "launch",
       "mainClass": "gcd",
@@ -15,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Anant/Desktop/files/DSAc",
-      "program": "c:/Users/Anant/Desktop/files/DSAc/build/Debug/outDebug",
+      "cwd": "c:/Users/Anant/Desktop/files/DSAc/algorithms",
+      "program": "c:/Users/Anant/Desktop/files/DSAc/algorithms/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
