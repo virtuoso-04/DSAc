@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "bfs",
+      "request": "launch",
+      "mainClass": "bfs",
+      "projectName": "DSAc_5431a50"
+    },
+    {
+      "type": "java",
       "name": "linearsearch",
       "request": "launch",
       "mainClass": "linearsearch",
