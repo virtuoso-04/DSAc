@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "primsalgo",
+      "request": "launch",
+      "mainClass": "primsalgo",
+      "projectName": "DSAc_5431a50"
+    },
+    {
+      "type": "java",
       "name": "Merge",
       "request": "launch",
       "mainClass": "Merge",
