@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "knapsack",
+      "request": "launch",
+      "mainClass": "knapsack",
+      "projectName": "DSAc_5431a50"
+    },
+    {
+      "type": "java",
+      "name": "Knapsack",
+      "request": "launch",
+      "mainClass": "Knapsack",
+      "projectName": "DSAc_5431a50"
+    },
+    {
+      "type": "java",
       "name": "primsalgo",
       "request": "launch",
       "mainClass": "primsalgo",
